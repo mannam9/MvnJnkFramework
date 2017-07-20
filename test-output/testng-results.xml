@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1427" started-at="2017-07-20T18:32:25Z" finished-at="2017-07-20T18:32:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1427" started-at="2017-07-20T18:32:25Z" finished-at="2017-07-20T18:32:26Z">
+      <class name="com.fanniemae.testcases.DummyTestCase">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.fanniemae.testcases.DummyTestCase@26653222]" test-instance-name="" name="setUp" is-config="true" duration-ms="4929" started-at="2017-07-20T14:32:20Z" finished-at="2017-07-20T14:32:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="LoginTest()[pri:0, instance:com.fanniemae.testcases.DummyTestCase@26653222]" test-instance-name="" name="LoginTest" duration-ms="1415" started-at="2017-07-20T14:32:25Z" finished-at="2017-07-20T14:32:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.fanniemae.testcases.DummyTestCase@26653222]" test-instance-name="" name="tearDown" is-config="true" duration-ms="1064" started-at="2017-07-20T14:32:26Z" finished-at="2017-07-20T14:32:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.fanniemae.testcases.DummyTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
